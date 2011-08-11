@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="835.39795" height="475" id="svg4122" version="1.1" inkscape:version="0.47 r22583" sodipodi:docname="bilipid.svg">
+  <defs id="defs4124">
+    <marker inkscape:stockid="DotM" orient="auto" refY="0" refX="0" id="DotM" style="overflow:visible">
+      <path id="path5318" d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none" transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker inkscape:stockid="Arrow2Mend" orient="auto" refY="0" refX="0" id="Arrow2Mend" style="overflow:visible">
+      <path id="path5280" style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective4130" />
+    <inkscape:perspective id="perspective4265" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective5148" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective5172" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective5194" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective5224" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective6082" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective6107" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective6136" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective id="perspective6161" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7" inkscape:cx="437.0462" inkscape:cy="172.0032" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1920" inkscape:window-height="1032" inkscape:window-x="1920" inkscape:window-y="0" inkscape:window-maximized="1" />
+  <metadata id="metadata4127">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(219.2551,22.280674)">
+    <image y="-22.280674" x="-61.857143" id="image4267" height="475" width="678" xlink:href="file:///home/tbekolay/Dropbox/Research/thesis/2011-05%20masters/figures/nef/orig/bilipid.png" />
+    <text xml:space="preserve" style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans12;-inkscape-font-specification:LMSans12" x="-219.8851" y="371.25735" id="text4360"><tspan sodipodi:role="line" id="tspan4362" x="-219.8851" y="371.25735" style="font-size:18px">Phospholipid layer</tspan><tspan sodipodi:role="line" x="-219.8851" y="393.75735" id="tspan4364" style="font-size:18px">containing proteins</tspan></text>
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 15.657364,381.05581 106.571096,0" id="path4366" transform="translate(-61.857143,-22.280674)" />
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m -46.200143,396.24924 106.5711,0" id="path4366-4" />
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 5.2773911,358.27007 0,-11.61676" id="path5162" />
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 5.277857,408.48456 0,-11.61676" id="path5162-9" />
+    <text xml:space="preserve" style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans12;-inkscape-font-specification:LMSans12" x="-5.4812336" y="385.72562" id="text4360-7"><tspan sodipodi:role="line" x="-5.4812336" y="385.72562" id="tspan4364-2" style="font-size:24px;font-style:italic;font-weight:normal">C</tspan></text>
+    <text xml:space="preserve" style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans12;-inkscape-font-specification:LMSans12" x="163.2496" y="423.72754" id="text4360-6"><tspan sodipodi:role="line" x="163.2496" y="423.72754" id="tspan4364-1" style="font-size:18px">Transmembrane protein</tspan></text>
+    <path style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="M 223.57143,438.57143 C 200.71429,425.71429 200.71429,425.71429 200.71429,425.71429" id="path5246" transform="translate(-61.857143,-22.280674)" />
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" d="M 399.51533,255.29182 346.48232,200.23851" id="path5248" transform="translate(-61.857143,-22.280674)" />
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" d="M 371.23106,226.50247 332.34019,217.4111" id="path5698" transform="translate(-61.857143,-22.280674)" sodipodi:nodetypes="cc" />
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotM)" d="m 249.24954,143.08727 26.76904,26.26397" id="path5884" />
+    <text xml:space="preserve" style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans12;-inkscape-font-specification:LMSans12" x="288.7157" y="270.34109" id="text4360-6-4"><tspan sodipodi:role="line" x="288.7157" y="270.34109" id="tspan4364-1-4" style="font-size:18px">Voltage controlled gate</tspan></text>
+    <text xml:space="preserve" style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans12;-inkscape-font-specification:LMSans12" x="404.64636" y="178.8233" id="text4360-6-4-8"><tspan sodipodi:role="line" x="404.64636" y="178.8233" id="tspan4364-1-4-0" style="font-size:18px">Ion channel</tspan></text>
+    <path style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="M 551.54329,188.11668 583.3631,158.82225" id="path6124" transform="translate(-61.857143,-22.280674)" />
+    <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 604.5763,179.0253 6.06091,-15.65736 -3.53553,-11.11168 15.65736,1.01016 -11.11167,-16.66753 17.67766,10e-6 -9.09137,-16.16244 16.66752,-1.01016 -5.05076,-9.59645 6.56599,-19.69797" id="path6126" transform="translate(-61.857143,-22.280674)" sodipodi:nodetypes="cccccccccc" />
+    <text xml:space="preserve" style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans12;-inkscape-font-specification:LMSans12" x="569.93079" y="136.28328" id="text4360-7-8"><tspan sodipodi:role="line" x="569.93079" y="136.28328" id="tspan4364-2-0" style="font-size:24px;font-style:italic;font-weight:normal">R</tspan></text>
+  </g>
+</svg>

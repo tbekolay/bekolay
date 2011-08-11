@@ -1,0 +1,3 @@
+Data is generated using Nengo, available in nengo.zip. Data and scripts included in appropriate folders.
+Plots are generated with matplotlib; all scripts included.
+Other figures are included; SVG for most, which is exported to PDF from Inkscape.
